@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\JustTimePassSol\JustTimePass\bin\Debug\net6.0\JustTimePass.exe
+C:\Users\LENOVO\source\repos\JustTimePassSol\JustTimePass\bin\Debug\net6.0\JustTimePass.deps.json
+C:\Users\LENOVO\source\repos\JustTimePassSol\JustTimePass\bin\Debug\net6.0\JustTimePass.runtimeconfig.json
+C:\Users\LENOVO\source\repos\JustTimePassSol\JustTimePass\bin\Debug\net6.0\JustTimePass.dll
+C:\Users\LENOVO\source\repos\JustTimePassSol\JustTimePass\bin\Debug\net6.0\JustTimePass.pdb
+C:\Users\LENOVO\source\repos\JustTimePassSol\JustTimePass\obj\Debug\net6.0\JustTimePass.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\JustTimePassSol\JustTimePass\obj\Debug\net6.0\JustTimePass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\JustTimePassSol\JustTimePass\obj\Debug\net6.0\JustTimePass.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\JustTimePassSol\JustTimePass\obj\Debug\net6.0\JustTimePass.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\JustTimePassSol\JustTimePass\obj\Debug\net6.0\JustTimePass.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\JustTimePassSol\JustTimePass\obj\Debug\net6.0\JustTimePass.dll
+C:\Users\LENOVO\source\repos\JustTimePassSol\JustTimePass\obj\Debug\net6.0\refint\JustTimePass.dll
+C:\Users\LENOVO\source\repos\JustTimePassSol\JustTimePass\obj\Debug\net6.0\JustTimePass.pdb
+C:\Users\LENOVO\source\repos\JustTimePassSol\JustTimePass\obj\Debug\net6.0\JustTimePass.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\JustTimePassSol\JustTimePass\obj\Debug\net6.0\ref\JustTimePass.dll
