@@ -1,0 +1,5 @@
+C:\Users\LENOVO\source\repos\JustTimePassSol\FindMaximum.cs\obj\Debug\net6.0\FindMaximum.cs.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\JustTimePassSol\FindMaximum.cs\obj\Debug\net6.0\FindMaximum.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\JustTimePassSol\FindMaximum.cs\obj\Debug\net6.0\FindMaximum.cs.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\JustTimePassSol\FindMaximum.cs\obj\Debug\net6.0\FindMaximum.cs.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\JustTimePassSol\FindMaximum.cs\obj\Debug\net6.0\FindMaximum.cs.csproj.CoreCompileInputs.cache
