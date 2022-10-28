@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\JustTimePassSol\GenericInClass\obj\Debug\net6.0\GenericInClass.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\JustTimePassSol\GenericInClass\obj\Debug\net6.0\GenericInClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\JustTimePassSol\GenericInClass\obj\Debug\net6.0\GenericInClass.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\JustTimePassSol\GenericInClass\obj\Debug\net6.0\GenericInClass.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\JustTimePassSol\GenericInClass\obj\Debug\net6.0\GenericInClass.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\JustTimePassSol\GenericInClass\bin\Debug\net6.0\GenericInClass.exe
+C:\Users\LENOVO\source\repos\JustTimePassSol\GenericInClass\bin\Debug\net6.0\GenericInClass.deps.json
+C:\Users\LENOVO\source\repos\JustTimePassSol\GenericInClass\bin\Debug\net6.0\GenericInClass.runtimeconfig.json
+C:\Users\LENOVO\source\repos\JustTimePassSol\GenericInClass\bin\Debug\net6.0\GenericInClass.dll
+C:\Users\LENOVO\source\repos\JustTimePassSol\GenericInClass\bin\Debug\net6.0\GenericInClass.pdb
+C:\Users\LENOVO\source\repos\JustTimePassSol\GenericInClass\obj\Debug\net6.0\GenericInClass.dll
+C:\Users\LENOVO\source\repos\JustTimePassSol\GenericInClass\obj\Debug\net6.0\refint\GenericInClass.dll
+C:\Users\LENOVO\source\repos\JustTimePassSol\GenericInClass\obj\Debug\net6.0\GenericInClass.pdb
+C:\Users\LENOVO\source\repos\JustTimePassSol\GenericInClass\obj\Debug\net6.0\GenericInClass.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\JustTimePassSol\GenericInClass\obj\Debug\net6.0\ref\GenericInClass.dll
