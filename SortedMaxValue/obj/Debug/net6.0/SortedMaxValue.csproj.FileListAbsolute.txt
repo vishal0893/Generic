@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\JustTimePassSol\SortedMaxValue\obj\Debug\net6.0\SortedMaxValue.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\JustTimePassSol\SortedMaxValue\obj\Debug\net6.0\SortedMaxValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\JustTimePassSol\SortedMaxValue\obj\Debug\net6.0\SortedMaxValue.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\JustTimePassSol\SortedMaxValue\obj\Debug\net6.0\SortedMaxValue.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\JustTimePassSol\SortedMaxValue\obj\Debug\net6.0\SortedMaxValue.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\JustTimePassSol\SortedMaxValue\bin\Debug\net6.0\SortedMaxValue.exe
+C:\Users\LENOVO\source\repos\JustTimePassSol\SortedMaxValue\bin\Debug\net6.0\SortedMaxValue.deps.json
+C:\Users\LENOVO\source\repos\JustTimePassSol\SortedMaxValue\bin\Debug\net6.0\SortedMaxValue.runtimeconfig.json
+C:\Users\LENOVO\source\repos\JustTimePassSol\SortedMaxValue\bin\Debug\net6.0\SortedMaxValue.dll
+C:\Users\LENOVO\source\repos\JustTimePassSol\SortedMaxValue\bin\Debug\net6.0\SortedMaxValue.pdb
+C:\Users\LENOVO\source\repos\JustTimePassSol\SortedMaxValue\obj\Debug\net6.0\SortedMaxValue.dll
+C:\Users\LENOVO\source\repos\JustTimePassSol\SortedMaxValue\obj\Debug\net6.0\refint\SortedMaxValue.dll
+C:\Users\LENOVO\source\repos\JustTimePassSol\SortedMaxValue\obj\Debug\net6.0\SortedMaxValue.pdb
+C:\Users\LENOVO\source\repos\JustTimePassSol\SortedMaxValue\obj\Debug\net6.0\SortedMaxValue.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\JustTimePassSol\SortedMaxValue\obj\Debug\net6.0\ref\SortedMaxValue.dll
